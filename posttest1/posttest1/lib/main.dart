@@ -47,7 +47,7 @@ class MainPage extends StatelessWidget {
           ),
           borderRadius: BorderRadius.circular(20),
         ),
-        child: const Text("TOKO IKAN HIAS NIJARES",
+        child: const Text("Muhammad Nizar -059",
           style: TextStyle(
             fontSize: 20,
             color: Color(0xffffffff),
