@@ -52,7 +52,7 @@ class home extends StatelessWidget {
         borderRadius: BorderRadius.circular(10),
       ),
       child: const Text(
-        "Disini menjual berberapa kebutuhan untuk dunia aquatic. seperti akuarium, makanan ikan, aksesoris akuarium, dan tentu saja ikan hias",
+        "Disini menjual berberapa kebutuhan untuk dunia aquatic. seperti akuarium, makanan ikan, aksesoris akuarium, dan tentu saja ikan hias. \n -Muhammad Nizar 2009106059",
         textAlign: TextAlign.center,
         style: TextStyle(
           fontSize: 20,
